@@ -33,4 +33,4 @@ PrechFund is a modern Laravel-based financial web platform designed to help user
     Tech Stack
  Backend: Laravel 10, PHP 8.x
 
- Frontend: HTML, CSS, Bootstrap, JavaScript
+ Frontend: HTML, CSS, Bootstrap, Sass and JavaScript.
