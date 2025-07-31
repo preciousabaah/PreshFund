@@ -6,20 +6,31 @@ PrechFund is a modern Laravel-based financial web platform designed to help user
 
      Features
 
- User Registration & Login  
- Personalized Dashboard  
- Total Investment Overview  
- View Completed & Pending Transactions  
- Investment Plan Summary  
- Apply for New Investment Plans  
- Request for Help (Support)  
- Full Transaction History  
- User Profile Management  
- Secure Logout Functionality  
+  User Registration & Login
+
+ Personalized Dashboard
+
+ Total Investment Overview
+
+ View Completed & Pending Transactions
+
+ Investment Plan Summary
+
+ Apply for New Investment Plans
+
+ Support Request System
+
+ Full Transaction History
+
+ User Profile Management
+
+ Secure Logout Functionality
+
+ Payment Integration via Paystack
 
 
 
+    Tech Stack
+ Backend: Laravel 10, PHP 8.x
 
-
- Backend: Laravel 10, PHP 8.x  
- Frontend:
+ Frontend: HTML, CSS, Bootstrap, JavaScript
